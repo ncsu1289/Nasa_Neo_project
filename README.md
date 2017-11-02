@@ -3,7 +3,7 @@
 ##Team Members:
 - Dwayne
 - Jared
-- Michael E-Banks
+- Michael Ebanks
 
 ##Ideas:
 - Nasa Data asteroid
