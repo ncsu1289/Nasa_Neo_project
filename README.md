@@ -25,7 +25,12 @@
 ## Reasons for this project (purpose):
 - Asteroids could someday threaten Earth.
 - Governments and scientists use asteroids to study the cosmos.
+- Good for education purposes.
+- Warn general public about potential asteroids impacts.
+
 ## Who is the Data for?
--
-## What would be the benefit of our presentation?
--
+- Companies who wish deploy satellites.
+- Governments.
+- Scientists.
+- Educators.
+- Meteorologists
