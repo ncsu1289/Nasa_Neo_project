@@ -28,9 +28,10 @@
 - Good for education purposes.
 - Warn general public about potential asteroids impacts.
 
-## Who is the Data for?
+## Who is the Data for? Who could use it?
 - Companies who wish deploy satellites.
 - Governments.
 - Scientists.
 - Educators.
-- Meteorologists
+- Meteorologists.
+- Scientists interested in deflecting asteroids.
