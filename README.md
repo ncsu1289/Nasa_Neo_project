@@ -1,4 +1,4 @@
-# Project Title: Working Title
+# Project Title: Determining and Modeling Hazardous Near Earth Objects
 
 ## Team Members:
 - Dwayne
