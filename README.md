@@ -1,26 +1,22 @@
 # Project Title: Determining and Modeling Hazardous Near Earth Objects
 
 ## Team Members:
-- Dwayne
-- Jared
-- Michael Ebanks
+- Dwayne Bost
+- Jared Klein
 
-## Ideas:
-- Nasa Data asteroid
+## Datasets used:
+- NASA's Open API (NeoWs), NASA's SENTRY csv, NASA's FIREBALL csv
 
-## Project Description/Outline:
-- The data was fascinating, had predictive dates for when they reach they’re closest approach date. There’s also data
+## Project Description:
+- Classifying, predicting, and modeling NEOs (Near Earth Objects).
 
-## Research Questions to Answer and possible plots:
+## Research Questions to Answer and elements to discuss:
 - When was the most recent event?
-- Miss Distance
-- Potentially hazerdous
-- Relationship between size vs passing Distance
-- speed or relative velocity vs. passing Distance
--
-
-## Data Sets to be used:
-- NASA NeoFeed on Asteroids (requires API Key)
+- Miss Distance.
+- Classifying potentially hazardous NEOs.
+- Relationship between size vs passing Distance.
+- Speed or relative velocity vs. passing Distance.
+- Orbits of NEOs.
 
 ## Reasons for this project (purpose):
 - Asteroids could someday threaten Earth.
