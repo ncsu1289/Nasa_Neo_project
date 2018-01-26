@@ -1,16 +1,24 @@
-# Project Title: Determining and Modeling Hazardous Near Earth Objects
+# Modeling Hazardous Near Earth Objects
+======
 
-## Team Members:
+## Project Leads:
 - Dwayne Bost
 - Jared Klein
+
+## Description:
+- This repository is home to a project on hazardous near earth objects (NEOs).
+Here, we look at the orbits of NEOs nearest to Earth by modeling their proximity
+to Earth, analyzing their characteristics, and determining whether or not these NEOs
+are actually threatening to Earth.
 
 ## Datasets used:
 - NASA's Open API (NeoWs), NASA's SENTRY csv, NASA's FIREBALL csv
 
-## Project Description:
-- Classifying, predicting, and modeling NEOs (Near Earth Objects).
+## Technologies used:
+- Python and its many analytics packages(pandas, numpy, matplotlib, seaborn, astropy, poliastro, request, json, csv,).
+- Microsoft Powerpoint.
 
-## Research Questions to Answer and elements to discuss:
+## Elements Discussed:
 - When was the most recent event?
 - Miss Distance.
 - Classifying potentially hazardous NEOs.
